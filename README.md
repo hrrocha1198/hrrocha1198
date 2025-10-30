@@ -55,4 +55,4 @@ Tenho como missão evoluir constantemente e construir projetos que unam **usabil
 
 ---
 
-⭐ *“Código é arte — e cada linha pode ser uma experiência.”*  
+
