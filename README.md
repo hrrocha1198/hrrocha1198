@@ -1,6 +1,6 @@
 <!-- 🌌 Portfólio Futurista - README Profissional de Henrique de M. Rocha -->
 
-<h1 align="center">🚀 Henrique de M. Rocha</h1>
+<h1 align="center">🚀 Henrique M. Rocha</h1>
 <h3 align="center">💻 Desenvolvedor de Sistemas Júnior | Front-End | Brasília - DF</h3>
 
 ---
